@@ -3,3 +3,4 @@ List of Current Projects
 - Complex Governance Networks in Federal Rulemaking
 - Project InGauge
 - Analysis of Survey Data from Arizona and Austria
+- Particle Swarm Optimizatin in Contested Space
